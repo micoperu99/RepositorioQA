@@ -1,1 +1,3 @@
 # RepositorioQA
+
+Algunos tips...
